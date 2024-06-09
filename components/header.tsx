@@ -9,4 +9,5 @@ export default function Header() {
         animate={{ y : 0, x :'-50%', opacity : 1 }}
     ></motion.div>
   </header>
+  
 }
